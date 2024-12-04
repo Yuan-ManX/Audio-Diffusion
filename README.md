@@ -1,2 +1,3 @@
-# Audio-Diffusion
+# Audio Diffusion
+
 PyTorch implementation of Audio Diffusion
